@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Lakshmi Shankar
 
-<!--
-**Lakshmi-Shankar/Lakshmi-Shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about building and breaking things in tech.  
+💻 Currently learning: Java, Data Structures, and System Design.  
+🚀 Interests: Full-stack development, OS-level computing, and open source.  
+📫 How to reach me: [lakshmi7708671565@gmail.com](mailto:lakshmi.shankar75@gmail.com)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: Java, Python, C/C++, JavaScript
+- Tools: Git, VS Code
+- Currently exploring: React, Node.js, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshmi-Shankar&show_icons=true&theme=radical)
